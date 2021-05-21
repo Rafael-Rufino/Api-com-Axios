@@ -57,7 +57,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  git clone https://github.com/Rafael-Rufino/gerador-de-CPF.git
+  git clone origin https://github.com/Rafael-Rufino/Api-com-Axios.git
 ```
 
 
