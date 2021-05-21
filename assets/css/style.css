@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  outline: 0;
+
+}
+
+.container{
+  display: flex;
+  flex-direction:column;
+  background-color: rgb(20, 18, 18);
+  max-width: 600px;
+  border-radius: 4px;
+  margin: 20px auto;
+  height: 90%;
+  padding: 40px;
+  margin: 40px auto;
+
+}
+
+.resultado table{ 
+  line-height:40px;
+  color: darkorange;
+  font-size:18px;
+  width:100%;
+
+
+}
+
+.container h1{
+  margin: 0 auto;
+  color: white;
+  padding-bottom: 40px;
+}
+
+body, html{
+  background-color: rgb(95, 36, 161);
+  height: 100%;
+  width: 100%;
+}

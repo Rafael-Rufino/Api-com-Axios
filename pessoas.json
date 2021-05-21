@@ -1,0 +1,124 @@
+[
+  {
+    "nome": "Miguel",
+    "email": "miguel@gmail.com",
+    "salario": "2711",
+    "estado": "MG",
+    "empresa": "Facebook",
+    "idade": 34,
+    "sexo": "M",
+    "cpf": "362.418.524-18"
+
+
+  },
+  {
+    "nome": "Rafael",
+    "email": "rafael@gmail.com",
+    "salario": "3711",
+    "estado": "RN",
+    "empresa": "Facebook",
+    "idade": 34,
+    "sexo": "M",
+    "cpf": "124.400.520-18"
+
+
+  },
+  {
+    "nome": "Raila",
+    "email": "raila@gmail.com",
+    "salario": "2811",
+    "estado": "PB",
+    "empresa": "Facebook",
+    "idade": 24,
+    "sexo": "F",
+    "cpf": "351.487.820-18"
+
+
+  },
+  {
+    "nome": "Ruan",
+    "email": "ruan@gmail.com",
+    "salario": "8471",
+    "estado": "RN",
+    "empresa": "Facebook",
+    "idade": 19,
+    "sexo": "M",
+    "cpf": "475.508.120-11"
+
+
+  },
+  {
+    "nome": "Matheus",
+    "email": "matheus@gmail.com",
+    "salario": "8455",
+    "estado": "RJ",
+    "empresa": "Facebook",
+    "idade": 18,
+    "sexo": "M",
+    "cpf": "111.528.134-10"
+
+
+  },
+  {
+    "nome": "Fernando",
+    "email": "fernando@gmail.com",
+    "salario": "8455",
+    "estado": "RJ",
+    "empresa": "Facebook",
+    "idade": 18,
+    "sexo": "M",
+    "cpf": "100.558.111-10"
+
+
+  },
+  {
+    "nome": "Bianca",
+    "email": "biana@gmail.com",
+    "salario": "8455",
+    "estado": "RJ",
+    "empresa": "Facebook",
+    "idade": 18,
+    "sexo": "F",
+    "cpf": "100.578.144-10"
+
+
+  },
+  {
+    "nome": "Maicon",
+    "email": "maicon@gmail.com",
+    "salario": "8455",
+    "estado": "RJ",
+    "empresa": "Facebook",
+    "idade": 18,
+    "sexo": "m",
+    "cpf": "100.578.144-10"
+
+
+  },
+  {
+    "nome": "Fernanda",
+    "email": "fernanda@gmail.com",
+    "salario": "8455",
+    "estado": "PR",
+    "empresa": "Facebook",
+    "idade": 25,
+    "sexo": "F",
+    "cpf": "105.200.574-10"
+
+
+  },
+  {
+    "nome": "Luan",
+    "email": "luan@gmail.com",
+    "salario": "8455",
+    "estado": "MA",
+    "empresa": "Facebook",
+    "idade": 18,
+    "sexo": "M",
+    "cpf": "101.28.114-10"
+
+
+  }
+
+
+]
